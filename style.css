@@ -1,0 +1,101 @@
+.container{
+    width: 1140px;
+    margin: 0px auto 0px auto;
+}
+a {
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#COMPANY{
+    float: left;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li{
+    float: right;
+
+}
+ul{
+    background-color: grey;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: yellow;
+    text-align: center;
+    padding: 150px 150px;
+    margin: 0%;
+    background-color: black;
+}
+.boxes1{
+    display: flex;
+}
+.box1{
+    height: 250px;
+    margin: 50px 70px 25px 50px;
+    border-radius: 10%;
+    flex: 1 1 auto;
+    background-color: #99ffcc;
+}
+.box2{
+    height: 250px;
+    margin: 50px 50px 25px 50px;
+    border-radius: 10%;
+    flex: 1 1 auto;
+    background-color: #99ffcc;
+}
+.box3{
+    height: 250px;
+    margin: 50px 50px 25px 70px;
+    border-radius: 10%;
+    flex: 1 1 auto;
+    background-color: #99ffcc;
+}
+.box4{
+    float: left;
+    height: 250px;
+    width: 500px;
+    background-color: #ffcc66;
+    margin: 25px 15px 25px 50px;
+}
+.box5{
+    float: right;
+    height: 250px;
+    width: 500px;
+    background-color: #ffcc66;
+    margin: 25px 50px 25px 15px
+}
+.paragraph{
+    float: left;
+    width: 300px;
+    height: 200px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 25px 100px 0px 150px
+}
+#Elephant{
+    float: right;
+    width: 300px;
+    height: auto;
+    margin: 25px 150px 0px 100px
+}
+.footer{ 
+    background-color: purple;
+    clear: both;
+    width: 100%;
+    margin: auto;
+    height: 60px;
+}
